@@ -5,7 +5,8 @@ class App extends Component{
 	render(){
 	return(
 	<div> 
-		<div className = "App"> Countdown to January 1, 2018 
+		<div className = "App"> 
+		<div className = "App Title">Countdown to January 1, 2018 </div>
 		<div>
 		   <div>15 Days</div>
 		   <div>30 Hours</div>
