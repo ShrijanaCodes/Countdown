@@ -10,3 +10,8 @@
 .App-title {
 	font-size: 50px;
 }
+
+.days , .min, .hours, .sec{
+	display: inline;
+	margin: 10px;
+}
