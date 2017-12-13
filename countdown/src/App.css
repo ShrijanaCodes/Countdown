@@ -1,7 +1,10 @@
 .App {
 	text-align: center;
+	font-family: monospace;
 	font-size: 40px;
 	margin-top: 20%;
+	background: #e23d95;
+	color: black;
 }
 
 .App-title {
