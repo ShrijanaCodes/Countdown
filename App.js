@@ -7,10 +7,10 @@ class App extends Component{
 	<div> 
 		<div className = "App"> Countdown to January 1, 2018 
 		<div>
-		   <div>15 Days</div>
-		   <div>30 Hours</div>
-		   <div>15 Minutes</div>
-		   <div>20 Seconds</div>
+		   <div className = "days">15 Days</div>
+		   <div className= "hours">30 Hours</div>
+		   <div className = "min">15 Minutes</div>
+		   <div className = "sec">20 Seconds</div>
 
 		</div>
 		<div>
