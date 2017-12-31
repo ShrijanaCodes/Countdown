@@ -3,7 +3,7 @@
 	font-family: monospace;
 	font-size: 40px;
 	margin-top: 20%;
-	background: #e23d95;
+	background: #7FDBFF;
 	color: black;
 }
 
@@ -14,4 +14,9 @@
 .days , .min, .hours, .sec{
 	display: inline;
 	margin: 10px;
+}
+
+.deadline-input{
+	font-size: 20px;
+	margin: 15px;
 }
